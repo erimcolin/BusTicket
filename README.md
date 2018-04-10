@@ -1,12 +1,10 @@
 # Ticket Bus
 
-## Tu viaje en un solo Ticket
+Bus Ticket es una plataforma en el que los usuarios pueden encontrar todos los horarios disponibles para viajar a Cuernavaca así como reservar y tener todo en un sólo ticket
+
 ![landing](https://user-images.githubusercontent.com/32862353/38530717-a4fc3072-3c31-11e8-8620-b3c5db5e8ddf.jpg)
 
-### Desarrollado para
-<hr>
-### Laboratoria
-<hr>
+### Desarrollado para Laboratoria
 
 ### El reto
 Optimizar el viaje de Cuernavaca a la Ciudad de México en autobús, e incrementar el número de venta de boletos de autobús del trayecto Ciudad de México – Cuernavaca a través de Internet.
