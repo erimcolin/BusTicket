@@ -89,12 +89,6 @@ En esta etapa se llevó a cabo la planeación de cómo sería el diseño
 
 ![ideacion](assets/images/acciones5.jpg)
 
-### Prototipo
-
-
-En este caso el diseño del prototipo no se llevó a cabo, en su lugar se creó una Landing Page a través de Wordpress y se utilizaron herramientas como Google Analitics y Hotjar para analizar el comportamiento con los usuarios
-![landing page](assets/images/busticket-landing-page.png)
-
 ```
 Las métricas son:
 
@@ -110,6 +104,10 @@ Las métricas son:
 
 ![Insights Google Analitics](assets/images/INSIGHTS.jpg)
 
+### Prototipo
+
+En este caso el diseño del prototipo no se llevó a cabo, en su lugar se creó una Landing Page a través de Wordpress y se utilizaron herramientas como Google Analitics y Hotjar para analizar el comportamiento con los usuarios
+![landing page](assets/images/busticket-landing-page.png)
 
 <hr>
 Equipo Conformado por:
