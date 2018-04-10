@@ -1,6 +1,6 @@
-# Ticket Bus
+# Bus Ticket
 
-Bus Ticket es una plataforma en el que los usuarios pueden encontrar todos los horarios disponibles para viajar a Cuernavaca así como reservar y tener todo en un sólo ticket
+Es una plataforma en el que los usuarios pueden encontrar todos los horarios disponibles para viajar a Cuernavaca así como reservar y tener todo en un sólo ticket
 
 ![landing](https://user-images.githubusercontent.com/32862353/38530717-a4fc3072-3c31-11e8-8620-b3c5db5e8ddf.jpg)
 
