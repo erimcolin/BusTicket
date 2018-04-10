@@ -1,7 +1,7 @@
 # Ticket Bus
 
 ## Tu viaje en un solo Ticket
-![pregunta 1](assets/images/landing.jpg)
+![landing](https://user-images.githubusercontent.com/32862353/38530717-a4fc3072-3c31-11e8-8620-b3c5db5e8ddf.jpg)
 
 ### Desarrollado para
 <hr>
